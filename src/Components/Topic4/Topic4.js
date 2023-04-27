@@ -70,7 +70,7 @@ export default function Topic4(){
 
     return(
         <div className={style.wrapper}>
-    <h1>Quiz 1</h1>
+    <h1>Quiz 4</h1>
     <div className={style.container}>
     {showScore ? (
         <div>
